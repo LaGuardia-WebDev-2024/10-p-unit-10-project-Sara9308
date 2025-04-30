@@ -30,6 +30,7 @@ arc(y,483,15,40,radians(180),radians(360))
 
 if(mousePressed){
   showXYPositions()
+  text("🎇", random(0,400), random(0,200))
 };
 };
 
